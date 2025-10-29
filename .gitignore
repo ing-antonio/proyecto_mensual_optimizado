@@ -1,0 +1,17 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+datos/capas
+datos/datos_originales
+datos_datos_procesados
+datos/datos_crudos.R
+datos/datos_crudos_semestral.R
+datos/df_alto_impacto_oct2018_crudo_2025-10-21.R
+
+auxiliares/conf.yml
+auxiliares/funciones.R
+auxiliares/funciones_mensual.R
+auxiliares/servicio_de_cuenta.json
+auxiliares/top_sectores-top_sectores.csv
